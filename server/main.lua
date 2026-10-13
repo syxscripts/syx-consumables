@@ -1,0 +1,3 @@
+-- Item consumption and ESX status updates are handled client-side through
+-- ox_inventory's supported useItem callback and esx_status:add events.
+-- Keep this server file for future server-authoritative integrations.
